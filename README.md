@@ -2,7 +2,8 @@
 
 I'm **Leonel Colina** (you can call me Leo, or Leon 😉). 
 I'm  a simple guy who enjoys reading Fantasy and Sci-Fi📚, and of course, **Coding**!💻  
-I'm always looking to build new things, learn new things, and coolaborate on new things, so feel free to contact me if you want us to collaborate or just want to connect!  📫 You can reach  me at leonelctang@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/leonel-colina/) 
+I'm always looking to build new things, learn new things, and coolaborate on new things, so feel free to contact me if you want us to collaborate or just want to connect!
+  📫 You can reach  me at `leonelctang@gmail.com` or find me on [LinkedIn](https://www.linkedin.com/in/leonel-colina/) 
 
 
 
