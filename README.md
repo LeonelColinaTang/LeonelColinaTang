@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Leonel Colina
-- 👀 I’m interested in ... everything code related!! Frontend, Backend, Web Design!
-- 🌱 I’m currently learning ... Python and Angular
-- 💞️ I’m looking to collaborate on any interesting apps and projects! If you have an idea, hit me up!
-- 📫 How to reach me ... You can email me to leonelctang@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/leonel-colina/) [AngelList](https://angel.co/u/leonel-colina)
+- Hello there, stranger! (said in RE4 merchant's voice)
+
+- I'm Leonel Colina (you can call me Leo, or Leon 😉). 
+- I'm  a simple guy who enjoys reading Fantasy and Sci-Fi📚, and of course, coding!💻
+- I'm always looking to build new things, learn new things, and coolaborate on new things, so feel free to contact me if you want us to collaborate or just want to connect!
+- 📫 You can reach  me at leonelctang@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/leonel-colina/) 
 
 
 
